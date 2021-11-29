@@ -7,7 +7,6 @@ from os import system
 
 cmd='cls' if platform=='win32' else 'clear'
 
-u=[]
 u=[a,b]
 d=1
 
